@@ -31,6 +31,13 @@
 				"description":"Latest World news, comment and analysis from the Guardian, the world's leading liberal voice",
 				"image":"img/feeds/logos/the-guardian.jpg",
 				"url":"http://www.theguardian.com/world/rss"
+			},
+			{
+				"id":"npr",
+				"title":"NPR",
+				"description":"More liberal voice",
+				"image":"img/feeds/logos/npr-logo.jpg",
+				"url":"http://www.npr.org/rss/rss.php?id=1001"
 			}
 		]
 	},
