@@ -32,5 +32,8 @@
     "org.apache.cordova.inappbrowser",
     "org.pushandplay.cordova.apprate",
     "https://github.com/phonegap-build/PushPlugin.git"
+  ],
+  "cordovaPlatforms": [
+    "ios"
   ]
 }

@@ -1,0 +1,40 @@
+2015-05-16 23:48:20.219 ionFullApp[8507:211511] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/marklovett/Library/Developer/CoreSimulator/Devices/4C78A1B3-8367-4322-B19D-5BAD2FA9DD1B/data/Containers/Data/Application/3E2881D4-19BC-43F1-8B06-223CB01B1AB5/Library/Cookies/Cookies.binarycookies
+2015-05-16 23:48:20.498 ionFullApp[8507:211511] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 23:48:20.498 ionFullApp[8507:211511] Multi-tasking -> Device: YES, App: YES
+2015-05-16 23:48:20.518 ionFullApp[8507:211511] Unlimited access to network resources
+2015-05-16 23:48:20.796 ionFullApp[8507:211511] CDVPlugin class CDVAdMobPlugin (pluginName: admob) does not exist.
+2015-05-16 23:48:20.796 ionFullApp[8507:211511] [CDVTimer][admob] 0.147045ms
+2015-05-16 23:48:20.796 ionFullApp[8507:211511] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-05-16 23:48:20.796 ionFullApp[8507:211511] [CDVTimer][socialsharing] 0.135958ms
+2015-05-16 23:48:20.796 ionFullApp[8507:211511] [CDVTimer][TotalPluginStartup] 0.558019ms
+2015-05-16 23:48:21.100 ionFullApp[8507:211511] Resetting plugins due to page load.
+2015-05-16 23:48:21.820 ionFullApp[8507:211511] Finished load of: file:///Users/marklovett/Library/Developer/CoreSimulator/Devices/4C78A1B3-8367-4322-B19D-5BAD2FA9DD1B/data/Containers/Bundle/Application/9ADA9FF1-A72B-468F-B4D6-96BF5C7A62E8/ionFullApp.app/www/index.html#/
+2015-05-16 23:48:21.950 ionFullApp[8507:211511] CDVPlugin class CDVAppRate (pluginName: AppRate) does not exist.
+2015-05-16 23:48:21.950 ionFullApp[8507:211511] ERROR: Plugin 'AppRate' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:48:21.950 ionFullApp[8507:211511] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AppRate1072949437","AppRate","getAppVersion",[]]
+2015-05-16 23:48:21.952 ionFullApp[8507:211511] CDVPlugin class CDVAppRate (pluginName: AppRate) does not exist.
+2015-05-16 23:48:21.952 ionFullApp[8507:211511] ERROR: Plugin 'AppRate' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:48:21.952 ionFullApp[8507:211511] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AppRate1072949438","AppRate","getAppTitle",[]]
+2015-05-16 23:48:21.960 ionFullApp[8507:211511] CDVPlugin class PushPlugin (pluginName: PushPlugin) does not exist.
+2015-05-16 23:48:21.960 ionFullApp[8507:211511] ERROR: Plugin 'PushPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:48:21.960 ionFullApp[8507:211511] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["PushPlugin1072949439","PushPlugin","register",[{"alert":true,"ecb":"angular.element(document.querySelector('[ng-app]')).injector().get('$cordovaPush').onNotification","sound":true,"badge":true}]]
+2015-05-16 23:49:56.219 ionFullApp[10702:214842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/marklovett/Library/Developer/CoreSimulator/Devices/4C78A1B3-8367-4322-B19D-5BAD2FA9DD1B/data/Containers/Data/Application/1132CF05-DE51-4299-AF4A-BCC37257681B/Library/Cookies/Cookies.binarycookies
+2015-05-16 23:49:56.294 ionFullApp[10702:214842] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 23:49:56.295 ionFullApp[10702:214842] Multi-tasking -> Device: YES, App: YES
+2015-05-16 23:49:56.297 ionFullApp[10702:214842] Unlimited access to network resources
+2015-05-16 23:49:56.372 ionFullApp[10702:214842] CDVPlugin class CDVAdMobPlugin (pluginName: admob) does not exist.
+2015-05-16 23:49:56.373 ionFullApp[10702:214842] [CDVTimer][admob] 0.198007ms
+2015-05-16 23:49:56.373 ionFullApp[10702:214842] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-05-16 23:49:56.373 ionFullApp[10702:214842] [CDVTimer][socialsharing] 0.108004ms
+2015-05-16 23:49:56.373 ionFullApp[10702:214842] [CDVTimer][TotalPluginStartup] 0.549018ms
+2015-05-16 23:49:56.445 ionFullApp[10702:214842] Resetting plugins due to page load.
+2015-05-16 23:49:56.717 ionFullApp[10702:214842] Finished load of: file:///Users/marklovett/Library/Developer/CoreSimulator/Devices/4C78A1B3-8367-4322-B19D-5BAD2FA9DD1B/data/Containers/Bundle/Application/A25BCB41-D19E-473D-8180-F2047BC66C11/ionFullApp.app/www/index.html#/
+2015-05-16 23:49:56.833 ionFullApp[10702:214842] CDVPlugin class CDVAppRate (pluginName: AppRate) does not exist.
+2015-05-16 23:49:56.833 ionFullApp[10702:214842] ERROR: Plugin 'AppRate' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:49:56.833 ionFullApp[10702:214842] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AppRate561357900","AppRate","getAppVersion",[]]
+2015-05-16 23:49:56.839 ionFullApp[10702:214842] CDVPlugin class CDVAppRate (pluginName: AppRate) does not exist.
+2015-05-16 23:49:56.839 ionFullApp[10702:214842] ERROR: Plugin 'AppRate' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:49:56.839 ionFullApp[10702:214842] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AppRate561357901","AppRate","getAppTitle",[]]
+2015-05-16 23:49:56.846 ionFullApp[10702:214842] CDVPlugin class PushPlugin (pluginName: PushPlugin) does not exist.
+2015-05-16 23:49:56.846 ionFullApp[10702:214842] ERROR: Plugin 'PushPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-16 23:49:56.846 ionFullApp[10702:214842] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["PushPlugin561357902","PushPlugin","register",[{"alert":true,"ecb":"angular.element(document.querySelector('[ng-app]')).injector().get('$cordovaPush').onNotification","sound":true,"badge":true}]]
