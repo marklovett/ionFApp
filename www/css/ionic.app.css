@@ -7606,7 +7606,7 @@ a.button {
   color: #444444; }
 
 .bar.app-top-bar {
-  background-color: #ef473a; }
+  background-color: #11c1f3; }
   .bar.app-top-bar .title {
     color: #FFFFFF !important; }
     .bar.app-top-bar .title * {
@@ -7805,7 +7805,7 @@ ion-side-menu .heading-item .message {
       float: right; }
 
 .miscellaneous-view .miscellaneous-functionalities .item .icon:first-child {
-  color: #ef473a; }
+  color: #11c1f3; }
 .miscellaneous-view .miscellaneous-functionalities .item .title {
   font-weight: 500; }
 .miscellaneous-view .miscellaneous-functionalities .item .description {
@@ -8165,7 +8165,7 @@ ion-side-menu .heading-item .message {
   font-weight: 500; }
 
 .layouts-view .layouts-functionalities .item .icon:first-child {
-  color: #ef473a; }
+  color: #11c1f3; }
 .layouts-view .layouts-functionalities .item .title {
   font-weight: 500; }
 .layouts-view .layouts-functionalities .item .description {
