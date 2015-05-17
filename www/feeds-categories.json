@@ -38,7 +38,14 @@
 				"description":"More liberal voice",
 				"image":"img/feeds/logos/npr-logo.jpg",
 				"url":"http://www.npr.org/rss/rss.php?id=1001"
-			}
+			},
+				{
+				"id":"libertarian",
+				"title":"Libertarian",
+				"description":"Libertarian voice",
+				"image":"img/feeds/logos/libertarian-logo.jpg",
+				"url":"http://www.libertarianism.org/rss/podcast/excursions"
+			}			
 		]
 	},
 	{
